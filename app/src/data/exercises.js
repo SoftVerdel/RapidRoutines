@@ -16,12 +16,14 @@ export default {
     fourthRoundExercises: [
         "Reebok Step Crossovers",
         "Reebok Step Hands on/off",
-        "Reebok Step ups"
+        "Reebok Step ups",
+        "Goblet Squats",
+        "Lunges"
     ],
     fifthRoundExercises: [
         "Mountain Climbers",
-        "Bear Crawl",
         "Plank",
-        "Russian Twisters"
+        "Russian Twisters",
+        "Flutter Kicks"
     ],
 }
